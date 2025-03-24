@@ -9,6 +9,7 @@ Salifort Motors is a **fictional French-based alternative energy vehicle manufac
 As a data specialist at Salifort Motors, I was given the results of a **recent employee survey**. The senior leadership team has tasked me with **analyzing the data to identify factors influencing employee retention** and designing a model to **predict whether an employee will leave the company**.
 
 **Key Business Questions:**
+
 ✅ What factors contribute to employee turnover?  
 
 ✅ Can we build a model to predict employee attrition?
