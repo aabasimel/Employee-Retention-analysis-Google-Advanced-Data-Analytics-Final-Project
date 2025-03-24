@@ -9,9 +9,12 @@ Salifort Motors is a **fictional French-based alternative energy vehicle manufac
 As a data specialist at Salifort Motors, I was given the results of a **recent employee survey**. The senior leadership team has tasked me with **analyzing the data to identify factors influencing employee retention** and designing a model to **predict whether an employee will leave the company**.
 
 **Key Business Questions:**
-✅ What factors contribute to employee turnover?
+✅ What factors contribute to employee turnover?  
+
 ✅ Can we build a model to predict employee attrition?
+
 ✅ How can the company improve employee retention strategies?
+
 
 Dataset & Features
 The dataset includes various employee attributes, such as:
@@ -45,15 +48,24 @@ To solve this problem, I explored two machine learning approaches:
 
 **Performance Metrics:**
 To evaluate the model, I used:
+
 ✔ Accuracy
+
 ✔ Precision & Recall
+
 ✔ F1-Score
+
 ✔ ROC-AUC Score
 
+
 **Results & Insights**
+
 🔹 Employees with low satisfaction levels are more likely to leave.
+
 🔹 Overworked employees (high average monthly hours) have a higher attrition rate.
+
 🔹 Employees in certain departments (e.g., Sales & Support) show higher turnover.
+
 🔹 Salary level plays a crucial role—lower-paid employees tend to leave more.
 
 **How to Run the Project**
