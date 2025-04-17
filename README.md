@@ -78,3 +78,10 @@ Python (3.x)
 Jupyter Notebook or any Python IDE
 
 Required libraries: pandas, numpy, seaborn, matplotlib, scikit-learn, xgboost
+
+## Deployed Application
+
+If you'd like to see the deployed version of this application, visit the following link:
+
+[View Deployed Application](https://employeeattritionssalfort.streamlit.app/)
+
